@@ -38,6 +38,8 @@ public class CoreChatSystem : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"CoreGame",
+
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
